@@ -11,6 +11,7 @@ Well you're right here, on my guthub
 
 Discord - galactic lol#7600 (probably won't accept friend request)
 Twitch - twitch.tv/thegalacticace
+
 Steam - https://steamcommunity.com/profiles/76561199055365268
 
 # Thanks for reading!
