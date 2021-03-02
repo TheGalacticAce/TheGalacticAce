@@ -1,5 +1,5 @@
 # Hey there, I'm Galactic! 
-(well thats not my irl name, but i like to be called that 😄)
+(well thats not my IRL name, but its my pseudonym😄)
 
 # What do I do?
 I like to code Minecraft stuff sometimes. Soon maybe discord bots
