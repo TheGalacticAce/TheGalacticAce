@@ -8,7 +8,7 @@ I like to code Minecraft stuff sometimes. Soon maybe discord bots
 Who knows tbh
 
 # What are my socials?
-Well you're right here, on my guthub
+Well you're right here, on my github
 
 Discord - galactic lol#7600 (probably won't accept friend request)
 
