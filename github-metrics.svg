@@ -2277,7 +2277,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwQGCAAF/8QAJxAAAQQBBAEDBQEAAAAAAAAAAQIDBAURAAYSITEHE0EIIiMyUVL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Aypph9J4dbt5dkj1BqnzV3tG67BWWCoOBH5OaSOwQEE5HjA/o0Pa0HsC4urDYArNyyK2PW1kcorTJZJkEyQWUgnwGi2t0DOM9eQNAOWm1rqs29AurOA9Gr56yiK48OBdwkHIB7KcHo+NV/S/9Qu/breF5Bi2MaNDrYjZcitx1FaHeXlzJAOescSAUkEEA50QaD1KCQxDvq2VMQHIrMlpx1JGQUBQJGOs9aum5aSch2cWp0Y01ktuc/Kfc6QRzx2fuXkLJTgEqB/0FgG+kLZPs3G3bWPaxWJSKZlUuIVApUknJLZUkglBPfH4OcYyrIddT0W9BMcmNlUFlCEwZjxAffkpwFnGewpPav5wRklWeZ7qfaWku1le/Nc5qCQhCQOKW0D9UISOkpHwkdagaD//Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAwj/xAAoEAABAwMEAQMFAQAAAAAAAAABAgMEAAURBhIhQRMxUWEHFBUiI+H/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAABQf/aAAwDAQACEQMRAD8A8qVRtMwpGm5ihPjh6PLY8m5vBAKEFSmyD3jI+fmpzVZ08xcfwxavcyPG3NCOy24n+jRWNqC57cHjPXr1VQHuGmpkCzKnTAlk7kAMk5Xg55Pt1xR6nv1HmXArbivBlERai4FtIKPIoHBBB5BBzx/lAqUje0W6wzqWGuSW9gKseQ4G/adnODj9sVr3K13Vh2baEtOyUyXxKEpZxlCd4PkJ4HJGc+hFC+6o1qZVf9NW8z5MjBnfarDbm0OICQQVD0KgOM+1SrrjIlt3aG/CkESmmI3kkXIDalL4B2qz3kYbPauD1U+pBqaStM5y2tJQzCjOqQhpsbQSMDcr3V8mj9B//9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -2300,7 +2300,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Feb 2023, 08:15:43 (timezone America/Los_Angeles) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 17 Feb 2023, 09:11:08 (timezone America/Los_Angeles) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
