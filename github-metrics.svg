@@ -2272,7 +2272,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUABgIDB//EACYQAAEEAgEDAwUAAAAAAAAAAAECAwQRACEFEzFREiJBBhQzYXH/xAAYAQACAwAAAAAAAAAAAAAAAAAFBwIDBv/EAB0RAAEEAwEBAAAAAAAAAAAAAAEAAgMEBREhEhP/2gAMAwEAAhEDEQA/AO5ocChi3mJsWE9AZlEhcx77dmhYK/QVb8aQcxiyrA3ld+qoknkJi3+MmzWSGVsPqaeAQ2AD70CvyDqd7Gv2NBZ8Z85e8CB4u8+F/klOJkTvrE7salnWWPiosdrhYTMR5bzDTKG0uOKtagBVk+dbzQ5E951kqeTMBLSUwad9szOpTFkVWRXVM4Ox0uBhd9ZopsLPwsC9/wA7fOANqN4yhuK1vN1fpskbspfX6wrSEsVj4ltmPDQ0wz0kWT6SADZNk61s7whTYvAorivOMk9sXd2n5lPVVSyEjNhf/9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEvUlEQVR4nIWWe4hVVRTGv+udh6lkj2tZ/hE6mvRQgxpIMS1IIYs08tHL/uhBkBgSkb0U0bCwVKxJJJEGRcsmn0T5QGyyxoxktDujc2dGR++55z7OPY+91tr3/9j7OpdBuzOHj8Nhc87vfHvtdb598DmGOF4H2Grj2ETvvLn06os87i4CTgEPAxeArwAPIEABvr0Tp4eCrorHZekSOXlkMwVNPR0Xus7t+G4bAy7gAJ8C7f1vFSsG8NHgyPvuXf7bcaEwpKC74PSebX3lQvsbYVHG3MbWXRI4048rE9k8NQjxpcXIu49RxJGvWC3kcOPfp/a2tf5LSrZv1Y82yvB6PcBm+awH87h2FUSBqU7oiiitiTk6J9TMKi3kM7FQqVjQK5bpfpvlC7cqcdQIEBkxg3k1izALS0bkOHPE7BBliBWzdCYrHsvn9VWhdyYslI2YbyZqJ8qwFJkVkWIuErlKhcRBy14PKAAHgS5b31uqQidPgjBEQ8SIZRpziuWqiCdSECFdOq91M0tw9BeqiTOQBw4A9wxW0CWLwBqkoQhSMtesH2B9hHWGtcvaYfkyiO72/KSTTo9JtANtQAaYPhi0pQVhBNdF1gWJgRZ9OM4IkoUkW0kOkzxCElcyRXH347OC/h44VZU4scEQw8jWVIwiBRYEIYpFW2Udt95jiuMZd1HBkydmlxfq/arQpiaECtksHBddXaYCiixXIyJjX4mRrU+M9TtScuc99Q/wPTDn/4kNE5BxUfDgh8jmELEBGY8BUikzGERQfE1k6BP+bJtYUzMKGFbV5uZN8ApGxAj8a9MnhlfEwX3Il8ftO8i2B3Fs7pzYYOtTV4N02nRo0TNc20xGImjagpbd+GaLucFWI+H7bxEd6LvUVVfbB4yrCp32oKUw9uzEnl3GSxhaNGPxAlzsQG8PelP1zB8yu0RZor5sZv/MGT8C66pCZ8+EkGn7K73Y9BlyLt5cClZmRIX463esX3M/02kmpcXREggdE1o7a8ZFoBsYWeHEBkInN0CzUesx5K6ieRtmTb82ohlC8y+n8iUhIdLiCHlC2Z6LHI+LjcEMcAhYAeD5gdD4MFy5ZJ7/9SB2fosTh9CdNFmlCZqmago0kZAyUGahUHP4xfpy5g8UFlxXga83QisjDrF3O4IswhyiArR6RisqEWslolgTaUVaSeND5W+pnNlcDunx10EnNyDIG2iYw+UOYzPMQSJE+Rc0iVZGHJpE1SStRyUWq4RpOU8jACtvXK73loNCuD2GZaB5KB9eZqWfZT/LQZbTKfn5B+7u4Enj9YAkDYEscBXAvhuhtTXY0QTPge8aIgWmCB8sO1F0AwqTYbGn4Ehfh8xs7LPbZyX5K3sfzgPP3citq8Xbr6HzLIoZo7aTU+trg4/fdSjQnWfkUkeJI2//HjXypl4g6J97WUVYfGe1tr0jgZcXY90neHZeczyeG17nbNnwB0UBK6NU0ntytm/nW46+yp4KBjZUg/YfU2xvU0388tgxblBkpryKMmdao8StDpCzqhANNAMkhoI22/TVQG56Yzp5Tg78pNet8ec/7QC77HzJ/qRE/RXA6qGIt9vZ9dhdKDu8XkaP5rjZlBg4DOwGWgf885B1+h/eg4z/DTyHJQAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -2295,7 +2295,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Aug 2023, 09:13:28 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Aug 2023, 10:09:40 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
